@@ -2,7 +2,7 @@
 Style Sheet for eBooks@Adelaide web books
 Authors: Steve Thomas <stephen.thomas@adelaide.edu.au>
          Raymond Li <blake@raymond.li>
-Version: 2019.9.27
+Version: 2019.9.28
 Rights: Public Domain
 */
 body {
@@ -125,7 +125,7 @@ a:active, a:hover {
 }
 
 .description {
-	margin-top: 7em;
+	margin-top: 1em;
 }
 
 /* style atoms : classes defining a single style feature */
