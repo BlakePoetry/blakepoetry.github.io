@@ -1,7 +1,8 @@
 /*
 Style Sheet for eBooks@Adelaide web books
-Author: Steve Thomas, stephen.thomas@adelaide.edu.au
-Version: 2014.10.26
+Authors: Steve Thomas <stephen.thomas@adelaide.edu.au>
+         Raymond Li <blake@raymond.li>
+Version: 2019.9.27
 Rights: Public Domain
 */
 body {
@@ -121,6 +122,10 @@ a:active, a:hover {
 	.column {
 		width: 100%;
 	}
+}
+
+.description {
+	margin-top: 7em;
 }
 
 /* style atoms : classes defining a single style feature */
