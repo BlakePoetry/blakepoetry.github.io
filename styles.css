@@ -91,12 +91,14 @@ a:active, a:hover {
 	width: 50%;
 	display: inline-block;
 	text-align: left;
+	margin-left: 15vw;
 }
 
 .row {
-     display: flex;
-     align-items: center;
-     justify-content: center;;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	;
 }
 
 #tocrow {
@@ -119,6 +121,11 @@ a:active, a:hover {
 
 .description {
 	margin-top: 1em;
+}
+
+.raymo p {
+	text-align: center;
+	text-indent: 0 !important;
 }
 
 /* style atoms : classes defining a single style feature */
